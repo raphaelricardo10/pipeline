@@ -1,0 +1,65 @@
+[
+    {
+      "name": "ts",
+      "mode": "NULLABLE",
+      "type": "DATETIME",
+      "description": "date and time of measurement",
+      "fields": []
+    },
+    {
+      "name": "device",
+      "mode": "NULLABLE",
+      "type": "STRING",
+      "description": "device MAC address",
+      "fields": []
+    },
+    {
+      "name": "co",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "CO2 level ppm (%)",
+      "fields": []
+    },
+    {
+      "name": "humidity",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "The humidity level",
+      "fields": []
+    },
+    {
+      "name": "light",
+      "mode": "NULLABLE",
+      "type": "BOOLEAN",
+      "description": "If the light was detected",
+      "fields": []
+    },
+    {
+      "name": "lpg",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "Liquid petroleum gas ppm (%)",
+      "fields": []
+    },
+    {
+      "name": "motion",
+      "mode": "NULLABLE",
+      "type": "BOOLEAN",
+      "description": "If a motion was detected",
+      "fields": []
+    },
+    {
+      "name": "temp",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "Temperature in Fahrenheit",
+      "fields": []
+    },
+    {
+      "name": "smoke",
+      "mode": "NULLABLE",
+      "type": "FLOAT",
+      "description": "Quantity of smoke ppm (%)",
+      "fields": []
+    }
+  ]
